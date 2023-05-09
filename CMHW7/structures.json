@@ -1,0 +1,42 @@
+
+[
+    {
+        "id": 1,
+        "name": "Eiffel Tower",
+        "country": "France",
+        "description": "The Eiffel Tower is an iconic landmark located in Paris, France. It was built in 1889 as the entrance arch to the 1889 World's Fair and has since become one of the most recognizable structures in the world. The tower stands at a height of 324 meters (1,063 feet) and was the tallest man-made structure in the world when it was built. It is made of wrought iron and consists of four legs that curve inward at the base and taper to a point at the top. The tower has three levels that are accessible to visitors, each offering stunning views of the city. The Eiffel Tower was designed by Gustave Eiffel, a French engineer, and was initially met with controversy and criticism from some Parisians who felt it was an eyesore. However, it has since become a symbol of Paris and French culture, and is visited by millions of people every year. In addition to its beauty and historical significance, the Eiffel Tower also serves practical purposes. It was originally built as a telecommunications tower and still houses radio and television transmitters today. Overall, the Eiffel Tower is a remarkable feat of engineering and design that has captured the hearts and imaginations of people around the world. It stands as a testament to the ingenuity and creativity of humanity and remains a must-see destination for anyone visiting Paris.",
+        "latitude": 48.51301,
+        "longitude": 2.17401,
+        "picture": "eiffel tower"
+    },
+    {
+        "id": 2,
+        "name": "The Great Pyramid of Giza",
+        "country": "Egypt",
+        "description": "The Pyramids of Giza, also known as the Great Pyramids of Giza, are a collection of three ancient pyramids located on the Giza Plateau near Cairo, Egypt. The pyramids were built as tombs for pharaohs Khufu, Khafre, and Menkaure during the Old Kingdom period, around 2500 BCE. The largest pyramid, known as the Great Pyramid of Khufu or the Pyramid of Cheops, is the oldest and largest of the three. It stands at a height of 146 meters (481 feet) and was the tallest man-made structure in the world for over 3,800 years. The second pyramid, known as the Pyramid of Khafre, is slightly smaller and has a height of 143 meters (471 feet). The third and smallest pyramid, the Pyramid of Menkaure, has a height of 65 meters (213 feet). The pyramids are made of limestone blocks, each weighing several tons, which were quarried and transported from nearby areas. They were built using a sophisticated system of ramps, levers, and pulleys, and were designed to align with the stars. The interior of the pyramids contains various chambers and passages, including the burial chamber where the pharaoh's body was placed. Today, the Pyramids of Giza are a UNESCO World Heritage Site and one of the most popular tourist attractions in Egypt. They continue to fascinate people around the world with their impressive size, engineering, and historical significance.",
+        "latitude": 29.979355,
+        "longitude": 31.134234,
+        "picture": "the great pyramid"
+    },
+    {
+        "id": 3,
+        "name": "Leaning Tower of Pisa",
+        "country": "Italy",
+        "description": "The Leaning Tower of Pisa is a famous Italian landmark located in the city of Pisa, Italy. It is a freestanding bell tower that stands adjacent to the Cathedral of Pisa and the Baptistry. The tower is known for its unique lean, which is caused by an unstable foundation that caused the tower to tilt during its construction. The tower was built over a period of almost 200 years, starting in 1173 and finishing in the mid-14th century. It stands at a height of 56 meters (186 feet) on the low side and 58 meters (191 feet) on the high side, with a lean of approximately 4 degrees. The tower is constructed of white marble and has eight levels, with a bell chamber at the top. In recent years, the tower has undergone extensive restoration work to prevent it from collapsing. The lean has been reduced by almost 50 centimeters (20 inches), and the tower is now considered safe for visitors to climb. Visitors can climb the tower's spiral staircase to the top and enjoy panoramic views of the surrounding area. Today, the Leaning Tower of Pisa is one of Italy's most popular tourist attractions, drawing millions of visitors each year. It is a testament to the ingenuity and determination of its builders, who managed to construct a tower that continues to fascinate and inspire people around the world.",
+        "latitude": 43.722967,
+        "longitude": 10.396596,
+        "picture": "leaning tower of pisa"
+    },
+    {
+        "id": 4,
+        "name": "Lotte World Tower",
+        "country": "Korea",
+        "description": "Lotte World Tower is a 123-story skyscraper located in Seoul, South Korea. It is the tallest building in South Korea and the fifth tallest building in the world, with a height of 555 meters (1,819 feet). The tower was completed in 2017 and has become a landmark of Seoul's skyline. The tower is not just a commercial building but also features a wide range of facilities. It includes luxury residences, office spaces, a seven-star hotel, a department store, an observation deck, and a variety of restaurants and cafes. The observation deck, named Seoul Sky, is located on the 117th floor and offers a panoramic view of the city. In addition to its impressive height and various amenities, Lotte World Tower is also known for its sustainable design. The tower features a double-skin facade with high-performance glass, which helps to reduce energy consumption by controlling the amount of sunlight and heat that enters the building. The tower also has a rainwater harvesting system and uses renewable energy sources, such as solar and wind power. Overall, Lotte World Tower is a remarkable building that combines cutting-edge design, functionality, and sustainability, and is a must-visit destination for anyone traveling to Seoul.",
+        "latitude": 37.513808,
+        "longitude": 127.105224,
+        "picture": "lotte world tower"
+    }
+ ]
+
+
+
